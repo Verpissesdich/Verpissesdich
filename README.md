@@ -12,11 +12,9 @@ WhatsApp: +7(902)376-43-46;<br/>
 ---
 
 <strong>Languages and Tools :</strong> <br/>
-📱 Mobile apps for Android and iOS with Flutter, Kotlin and SwiftUI <br/>
-💻 Web front-end development with Vue, NextJS, Svelte <br />
-🛰️ API's with Quarkus, Spring<br/>
-💾 Database: Postgres, SQLite, Elastic Search, Firebase<br/>
-🤓 Other: Apache Kafka, Apache Lucene, Docker<br/>
+📱 Mobile apps for Android and iOS with Flutter <br/>
+💻 Web front-end development with HTML, CSS, SCSS, GULP <br />
+🛰️ MERN Stack: MongoDB, Express, React и Node.js<br/>
 
 ---
 
@@ -41,13 +39,12 @@ WhatsApp: +7(902)376-43-46;<br/>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBoeGllbThxYWxmN3Zpa2g3OWl5eXhodWpjMmY3bWRnZmZieXJhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.webp"/>
 </div>
 
-
-
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Verpissesdich&layout=compact&langs_count=8&card_width=680" />
 </a>
 
 
+✨  About Me: Frontend developer and trial lawyer, the best combination for hardcore freelancing
 
 
 
@@ -80,11 +77,14 @@ WhatsApp: +7(902)376-43-46;<br/>
 
 
 
-✨  About Me
-I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.
 
 
-<!--
+
+
+<!--I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.
+
+
+
 **Verpissesdich/Verpissesdich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
