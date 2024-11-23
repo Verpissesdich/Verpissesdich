@@ -5,13 +5,13 @@
 
 
 
-🔗 Connect with me:<br/>
+🔗 <strong> Connect with me:</strong> <br/>
 Viber: +7(917)966-65-65;<br/>
 WhatsApp: +7(902)376-43-46;<br/>
 
 ---
 
-Languages and Tools :<br/>
+<strong>Languages and Tools :</strong> <br/>
 📱 Mobile apps for Android and iOS with Flutter, Kotlin and SwiftUI <br/>
 💻 Web front-end development with Vue, NextJS, Svelte <br />
 🛰️ API's with Quarkus, Spring<br/>
@@ -21,7 +21,7 @@ Languages and Tools :<br/>
 ---
 
 
-Some techs I've worked with:<br/>
+<strong>Some techs I've worked with:</strong> <br/>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -41,12 +41,8 @@ Some techs I've worked with:<br/>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBoeGllbThxYWxmN3Zpa2g3OWl5eXhodWpjMmY3bWRnZmZieXJhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.webp"/>
 </div>
 
----
 
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Verpissesdich&repo=-lamborghini-urus)](https://github.com/anuraghazra/github-readme-stats)-->
-<!-- Для вставки надо заменить параметры username= на актуальный никнейм, repo= на название необходимого репозитория, а в скобках указать ссылку на сам репозиторий.-->
-<br/>
-<br/>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Verpissesdich&layout=compact&langs_count=8&card_width=680" />
 </a>
@@ -60,8 +56,10 @@ Some techs I've worked with:<br/>
 
 
 
-
-
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Verpissesdich&repo=-lamborghini-urus)](https://github.com/anuraghazra/github-readme-stats)-->
+<!-- Для вставки надо заменить параметры username= на актуальный никнейм, repo= на название необходимого репозитория, а в скобках указать ссылку на сам репозиторий.-->
+<br/>
+<br/>
 
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
