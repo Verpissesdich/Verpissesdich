@@ -5,7 +5,7 @@
 🔗  Connect with me:<br/>
 Viber: +7(917)966-65-65;<br/>
 WhatsApp: +7(902)376-43-46;
-
+---
 
 I usually work with:<br/>
 📱 Mobile apps for Android and iOS with Flutter, Kotlin and SwiftUI <br/>
@@ -13,7 +13,7 @@ I usually work with:<br/>
 🛰️ API's with Quarkus, Spring<br/>
 💾 Database: Postgres, SQLite, Elastic Search, Firebase<br/>
 🤓 Other: Apache Kafka, Apache Lucene, Docker<br/>
-
+---
 
 
 Some techs I've worked with:<br/>
@@ -35,6 +35,8 @@ Some techs I've worked with:<br/>
 <div align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBoeGllbThxYWxmN3Zpa2g3OWl5eXhodWpjMmY3bWRnZmZieXJhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.webp"/>
 </div>
+
+---
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Verpissesdich&repo=-lamborghini-urus)](https://github.com/anuraghazra/github-readme-stats)-->
 <!-- Для вставки надо заменить параметры username= на актуальный никнейм, repo= на название необходимого репозитория, а в скобках указать ссылку на сам репозиторий.-->
