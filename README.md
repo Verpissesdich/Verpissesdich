@@ -2,9 +2,13 @@
 ![image](https://github.com/user-attachments/assets/ac28c16f-8241-4426-9303-c9838db3a246)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=950&center=true&width=1000&height=94&lines=Frontend+developer+from+Samara%2C+Russia;%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%B8%D0%B7+%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D1%8B%2C+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" alt="Typing SVG" /></a>
 
-🔗  Connect with me:<br/>
+
+
+
+🔗 Connect with me:<br/>
 Viber: +7(917)966-65-65;<br/>
-WhatsApp: +7(902)376-43-46;
+WhatsApp: +7(902)376-43-46;<br/>
+
 ---
 
 Languages and Tools :<br/>
@@ -13,6 +17,7 @@ Languages and Tools :<br/>
 🛰️ API's with Quarkus, Spring<br/>
 💾 Database: Postgres, SQLite, Elastic Search, Firebase<br/>
 🤓 Other: Apache Kafka, Apache Lucene, Docker<br/>
+
 ---
 
 
