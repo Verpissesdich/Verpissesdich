@@ -7,7 +7,7 @@ Viber: +7(917)966-65-65;<br/>
 WhatsApp: +7(902)376-43-46;
 ---
 
-I usually work with:<br/>
+Languages and Tools :<br/>
 📱 Mobile apps for Android and iOS with Flutter, Kotlin and SwiftUI <br/>
 💻 Web front-end development with Vue, NextJS, Svelte <br />
 🛰️ API's with Quarkus, Spring<br/>
