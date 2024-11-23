@@ -14,7 +14,7 @@ WhatsApp: +7(902)376-43-46;<br/>
 <strong>Languages and Tools :</strong> <br/>
 📱 Mobile apps for Android and iOS with Flutter <br/>
 💻 Web front-end development with HTML, CSS, SCSS, GULP <br />
-🛰️ MERN Stack: MongoDB, Express, React и Node.js<br/>
+🛰️ MERN Stack: MongoDB, Express, React и Node.js <br/>
 
 ---
 
