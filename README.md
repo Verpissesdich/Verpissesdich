@@ -30,9 +30,11 @@ Some techs I've worked with:<br/>
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
-
+<div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBoeGllbThxYWxmN3Zpa2g3OWl5eXhodWpjMmY3bWRnZmZieXJhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.webp"/>
+</div>
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Verpissesdich&repo=-lamborghini-urus)](https://github.com/anuraghazra/github-readme-stats)-->
 <!-- Для вставки надо заменить параметры username= на актуальный никнейм, repo= на название необходимого репозитория, а в скобках указать ссылку на сам репозиторий.-->
