@@ -51,7 +51,7 @@ WhatsApp: +7(902)376-43-46;<br/>
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Verpissesdich&repo=Heat-supply-organization-GOTE&show_owner=true)](https://github.com/Verpissesdich/Heat-supply-organization-GOTE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Verpissesdich&repo=Heat-supply-organization-GOTE&show_owner=true&description_lines_count=3)](https://github.com/Verpissesdich/Heat-supply-organization-GOTE)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Verpissesdich&repo=-lamborghini-urus)](https://github.com/Verpissesdich/-lamborghini-urus)
 
