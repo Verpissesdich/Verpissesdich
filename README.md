@@ -48,23 +48,35 @@ WhatsApp: +7(902)376-43-46;<br/>
 
 
 
+<a href="https://github.com/Verpissesdich/Heat-supply-organization-GOTE">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Verpissesdich&repo=Heat-supply-organization-GOTE&show_owner=true" />
+</a>
+<a href="https://github.com/Verpissesdich/-lamborghini-urus">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Verpissesdich&repo=-lamborghini-urus" />
+</a>
+
+ <!-- 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Verpissesdich&repo=Heat-supply-organization-GOTE&show_owner=true)](https://github.com/Verpissesdich/Heat-supply-organization-GOTE)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Verpissesdich&repo=-lamborghini-urus)](https://github.com/Verpissesdich/-lamborghini-urus)
+
+ -->
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Verpissesdich&repo=Heat-supply-organization-GOTE&show_owner=true&&size_weight=0&count_weight=1)](https://github.com/Verpissesdich/Heat-supply-organization-GOTE)
+
+
+  <!-- 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Verpissesdich&repo=Heat-supply-organization-GOTE&show_owner=true&&)](https://github.com/Verpissesdich/Heat-supply-organization-GOTE)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Verpissesdich&repo=-lamborghini-urus)](https://github.com/Verpissesdich/-lamborghini-urus)
 
 
-  
+Для вставки надо заменить параметры username= на актуальный никнейм, repo= на название необходимого репозитория, а в скобках указать ссылку на сам репозиторий.
 
 
 
-<!-- Для вставки надо заменить параметры username= на актуальный никнейм, repo= на название необходимого репозитория, а в скобках указать ссылку на сам репозиторий.-->
-
-
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
