@@ -51,11 +51,12 @@ WhatsApp: +7(902)376-43-46;<br/>
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Verpissesdich&repo=Heat-supply-organization-GOTE)](https://github.com/anuraghazra/github-readme-stats), [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Verpissesdich&repo=-lamborghini-urus)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Verpissesdich&repo=Heat-supply-organization-GOTE)](https://github.com/Verpissesdich/Heat-supply-organization-GOTE), 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Verpissesdich&repo=-lamborghini-urus)](https://github.com/Verpissesdich/-lamborghini-urus)
 
 
   
-
+https://github.com/Verpissesdich/Heat-supply-organization-GOTE
 
 
 <!-- Для вставки надо заменить параметры username= на актуальный никнейм, repo= на название необходимого репозитория, а в скобках указать ссылку на сам репозиторий.-->
